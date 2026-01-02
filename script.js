@@ -40,7 +40,7 @@ document.addEventListener("DOMContentLoaded", () => {
       <div class="mt-2 d-flex flex-wrap gap-3">
         <!-- pemilik -->
         <div class="px-3 py-3 border rounded justify-content-between align-items-center w-100">
-          <p class="mb-0 text-secondary">PEMILIK</p>
+          <p class="mb-0 text-secondary" style="font-size: 14px;">PEMILIK</p>
           <i class="fa-solid fa-person text-info"></i> <span class="fw-bold text-dark mx-1">${data.pemilik}</span>
         </div>
       </div>
@@ -48,24 +48,24 @@ document.addEventListener("DOMContentLoaded", () => {
         <!-- STATUS -->
         <div class="col-md-4 col-12">
           <div class="px-3 py-3 border rounded h-100">
-            <p class="mb-0 text-secondary">STATUS</p>
-            <i class="fa-regular fa-newspaper text-warning"></i> <span class="fw-bold text-dark mx-1" style="font-size: 14px;">${data.status}</span>
+            <p class="mb-0 text-secondary" style="font-size: 14px;">STATUS</p>
+            <i class="fa-regular fa-newspaper text-warning"></i> <span class="fw-bold text-dark mx-1" style="font-size: 13px;">${data.status}</span>
           </div>
         </div>
 
         <!-- SPPT -->
         <div class="col-md-4 col-12">
           <div class="px-3 py-3 border rounded h-100">
-            <p class="mb-0 text-secondary">NO. SPPT</p>
-            <i class="fa-solid fa-file-invoice text-primary"></i> <span class="fw-bold text-dark mx-1" style="font-size: 14px;">${data.no_sppt}</span>
+            <p class="mb-0 text-secondary" style="font-size: 14px;">NO. SPPT</p>
+            <i class="fa-solid fa-file-invoice text-primary"></i> <span class="fw-bold text-dark mx-1" style="font-size: 13px;">${data.no_sppt}</span>
           </div>
         </div>
 
         <!-- KONDISI -->
         <div class="col-md-4 col-12">
           <div class="px-3 py-3 border rounded h-100">
-            <p class="mb-0 text-secondary">KONDISI</p>
-            <i class="fa-solid fa-house-chimney-user text-success"></i> <span class="fw-bold text-dark mx-1" style="font-size: 14px;">${data.kondisi}</span>
+            <p class="mb-0 text-secondary" style="font-size: 14px;">KONDISI</p>
+            <i class="fa-solid fa-house-chimney-user text-success"></i> <span class="fw-bold text-dark mx-1" style="font-size: 13px;">${data.kondisi}</span>
           </div>
         </div>
       </div>
