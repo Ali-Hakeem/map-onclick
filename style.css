@@ -1,0 +1,147 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+/* Judul */
+.title {
+  margin: 0;
+  font-size: 1.4rem;
+  font-weight: 600;
+}
+
+/* MAP */
+.map-wrapper {
+  width: 100%;
+  background: #f0f0f0;
+  padding: 10px;
+  overflow: auto;
+}
+
+/* SVG RESPONSIVE */
+.map-wrapper svg {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* SVG INTERAKSI */
+svg path {
+  fill: #cfd8dc;
+  stroke: #333;
+  stroke-width: 2;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+svg path:hover {
+  fill: #00ff37;
+}
+
+svg path.active {
+  fill: #199600;
+}
+
+/* DETAIL */
+.details-container {
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  padding: 15px;
+}
+
+.info-table {
+  font-size: 0.85rem;
+}
+
+.info-table th,
+.info-table td {
+  vertical-align: middle;
+  white-space: nowrap;
+}
+
+.info-table td {
+  background: #fff;
+}
+
+/* BARIS TABEL AKTIF */
+.info-table tr.active {
+  background-color: #d1e7dd !important; /* hijau lembut */
+  color: #0f5132;
+  font-weight: 600;
+}
+
+/* Hover biar jelas bisa diklik */
+.info-table tbody tr:hover {
+  background-color: #f1fdf7;
+  cursor: pointer;
+}
+
+.map-label {
+  font-size: 18px;
+  font-weight: bold;
+  fill: #000;
+  pointer-events: none; /* klik tetap ke path */
+  user-select: none;
+}
+
+/*text color */
+.text-orange {
+  color: #ff7b00;
+}
+
+/*maps zoom*/
+.map-wrapper {
+  position: relative;
+  height: 75vh;
+  overflow: hidden;
+  background: #f8f9fa;
+}
+
+#mapZoom {
+  width: 100%;
+  height: 100%;
+  cursor: grab;
+  transform-origin: center center;
+  transition: transform 0.15s ease-out;
+  touch-action: none;
+}
+
+#mapZoom:active {
+  cursor: grabbing;
+}
+
+.map-wrapper svg {
+  width: 100%;
+  height: 100%;
+  user-select: none;
+}
+
+.map-controls {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.map-controls button {
+  background: white;
+  border: 1px solid #ccc;
+  padding: 4px 8px;
+  cursor: pointer;
+}
+
+/* MOBILE */
+@media (max-width: 768px) {
+  .map-wrapper {
+    padding: 5px;
+  }
+  .info-table {
+    font-size: 0.75rem;
+  }
+  .maps-mobile {
+    height: 300px;
+  }
+}
