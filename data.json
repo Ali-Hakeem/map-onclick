@@ -12,7 +12,7 @@
   },
   "A": {
     "blok": 1,
-    "title": "Rumah A",
+    "title": "Rumah A1",
     "description": "Ini adalah desain untuk Rumah A.",
     "image": "assets/desain-a.jpg",
     "pemilik": "TOTOK JAUHARI",
@@ -23,7 +23,7 @@
   },
   "B": {
     "blok": 1,
-    "title": "Rumah B",
+    "title": "Rumah A2",
     "description": "Desain eksklusif Rumah B.",
     "image": "assets/desain-b.jpg",
     "pemilik": "BUDI SANTOSO",
@@ -34,7 +34,7 @@
   },
   "C": {
     "blok": 1,
-    "title": "Rumah C",
+    "title": "Rumah A3",
     "description": "Konsep modern Rumah C.",
     "image": "assets/desain-c.jpg",
     "pemilik": "SRI WAHYUNI",
@@ -45,7 +45,7 @@
   },
   "D": {
     "blok": 1,
-    "title": "Rumah D",
+    "title": "Rumah A4",
     "description": "Ini adalah desain untuk Rumah D.",
     "image": "assets/desain-a.jpg",
     "pemilik": "AGUS SETIAWAN",
@@ -56,7 +56,7 @@
   },
   "E": {
     "blok": 1,
-    "title": "Rumah E",
+    "title": "Rumah A5",
     "description": "Desain eksklusif Rumah E.",
     "image": "assets/desain-b.jpg",
     "pemilik": "RINA LESTARI",
@@ -67,7 +67,7 @@
   },
   "F": {
     "blok": 1,
-    "title": "Rumah F",
+    "title": "Rumah A6",
     "description": "Konsep modern Rumah F.",
     "image": "assets/desain-c.jpg",
     "pemilik": "HENDRA WIJAYA",
@@ -78,7 +78,7 @@
   },
   "G": {
     "blok": 1,
-    "title": "Rumah G",
+    "title": "Rumah A7",
     "description": "Ini adalah desain untuk Rumah G.",
     "image": "assets/desain-a.jpg",
     "pemilik": "DWI PRAMONO",
@@ -89,7 +89,7 @@
   },
   "H": {
     "blok": 1,
-    "title": "Rumah H",
+    "title": "Rumah A8",
     "description": "Desain eksklusif Rumah H.",
     "image": "assets/desain-b.jpg",
     "pemilik": "LINA KURNIA",
@@ -100,7 +100,7 @@
   },
   "I": {
     "blok": 1,
-    "title": "Rumah I",
+    "title": "Rumah A9",
     "description": "Konsep modern Rumah I.",
     "image": "assets/desain-c.jpg",
     "pemilik": "EDI SUSANTO",
@@ -111,7 +111,7 @@
   },
   "J": {
     "blok": 1,
-    "title": "Rumah J",
+    "title": "Rumah A10",
     "description": "Ini adalah desain untuk Rumah J.",
     "image": "assets/desain-a.jpg",
     "pemilik": "NUR AINI",

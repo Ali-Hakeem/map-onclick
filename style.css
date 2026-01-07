@@ -26,20 +26,21 @@ body {
 }
 
 /* SVG INTERAKSI */
-svg path {
-  fill: #cfd8dc;
+
+/*rumah*/
+svg path.bloka {
+  fill: #ff1900;
   stroke: #333;
   stroke-width: 2;
-  cursor: pointer;
   transition: 0.3s;
 }
 
-svg path:hover {
-  fill: #00ff37;
+svg path.bloka:hover {
+  fill: #ff9999;
 }
 
-svg path.active {
-  fill: #199600;
+svg path.bloka.active {
+  fill: #8f0000;
 }
 
 /* DETAIL */
@@ -78,9 +79,9 @@ svg path.active {
 }
 
 .map-label {
-  font-size: 18px;
+  font-size: 50px;
   font-weight: bold;
-  fill: #000;
+  fill: #ffffff;
   pointer-events: none; /* klik tetap ke path */
   user-select: none;
 }
@@ -96,19 +97,41 @@ svg path.active {
   height: 75vh;
   overflow: hidden;
   background: #f8f9fa;
+  padding: auto;
 }
 
+/* ===== LOCK PNG + SVG ===== */
 #mapZoom {
-  width: 100%;
-  height: 100%;
-  cursor: grab;
-  transform-origin: center center;
-  transition: transform 0.15s ease-out;
-  touch-action: none;
+  position: absolute;
+  inset: 0;
+  transform-origin: 0 0; /* PENTING: biar zoom presisi */
 }
 
-#mapZoom:active {
-  cursor: grabbing;
+/* STAGE RASIO SVG */
+.map-stage {
+  position: relative;
+  margin-top: -10px;
+  margin-left: 40px;
+  width: 100%;
+  aspect-ratio: 3 / 2; /* ⬅️ PENTING */
+  overflow: hidden;
+}
+
+.map-base,
+#mapZoom svg {
+  position: absolute;
+  inset: 0;
+  width: 92%;
+  height: 92%;
+  object-fit: contain;
+  pointer-events: auto;
+}
+
+.map-base {
+  z-index: 1;
+}
+#mapZoom svg {
+  z-index: 2;
 }
 
 .map-wrapper svg {
@@ -131,6 +154,7 @@ svg path.active {
   border: 1px solid #ccc;
   padding: 4px 8px;
   cursor: pointer;
+  z-index: 99999;
 }
 
 /* MOBILE */
@@ -142,6 +166,15 @@ svg path.active {
     font-size: 0.75rem;
   }
   .maps-mobile {
-    height: 300px;
+    height: 250px;
+  }
+  /* STAGE RASIO SVG */
+  .map-stage {
+    position: relative;
+    margin-left: -17px;
+    margin-top: -3px;
+    width: 120%;
+    aspect-ratio: 3 / 2; /* ⬅️ PENTING */
+    overflow: hidden;
   }
 }

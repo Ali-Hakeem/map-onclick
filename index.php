@@ -31,20 +31,28 @@
 
       <!-- MAP -->
       <div class="col-lg-8">
-        <div class="mt-2 text-center">
-          <h3>Maps</h3>
-        </div>
         <div class="map-wrapper border rounded maps-mobile">
-          <div id="mapZoom">
-            <?php include "maps.svg"; ?>
+
+          <!-- STAGE (yang di-zoom & pan) -->
+          <div class="map-stage">
+            <div id="mapZoom">
+
+              <!-- PNG BASE MAP -->
+              <img src="assets/peta.png" class="map-base">
+
+              <!-- SVG (tetap, tidak diubah isinya) -->
+              <?php include "maps.svg"; ?>
+
+            </div>
           </div>
+
           <div class="map-controls">
             <button onclick="zoomIn()">+</button>
             <button onclick="zoomOut()">−</button>
             <button onclick="resetZoom()">⟳</button>
           </div>
-        </div>
 
+        </div>
       </div>
 
       <!-- DETAIL + TABEL (TAB) -->
@@ -93,9 +101,9 @@
           <div class="tab-pane fade" id="tableTab" role="tabpanel">
             
           <div class="mb-2 d-flex gap-2" id="blokFilter">
-            <button class="btn btn-sm btn-primary active" data-blok="1">Blok 1</button>
-            <button class="btn btn-sm btn-outline-primary" data-blok="2">Blok 2</button>
-            <button class="btn btn-sm btn-outline-primary" data-blok="3">Blok 3</button>
+            <button class="btn btn-sm btn-primary active" data-blok="1">Blok A</button>
+            <button class="btn btn-sm btn-outline-primary" data-blok="2">Blok B</button>
+            <button class="btn btn-sm btn-outline-primary" data-blok="3">Blok C</button>
           </div>
             <div class="table-responsive">
               <table class="table table-bordered table-striped table-sm info-table">
