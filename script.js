@@ -37,15 +37,14 @@ document.addEventListener("DOMContentLoaded", () => {
       <h4><span class="badge bg-danger">${data.title}</span></h4>
       <p class="fw-bold"><i class="fa-solid fa-map-location-dot me-2 text-orange"></i> ${data.alamat}</p>
 
-      <div class="row g-2 mt-1">
-        <!-- PEMILIK -->
-        <div class="col-md-4 col-12">
-          <div class="px-3 py-3 border rounded h-100">
-            <p class="mb-0 text-secondary">PEMILIK</p>
-            <i class="fa-regular fa-newspaper text-warning"></i> <span class="fw-bold text-dark mx-1" style="font-size: 14px;">${data.pemilik}</span>
-          </div>
+      <div class="mt-2 d-flex flex-wrap gap-3">
+        <!-- pemilik -->
+        <div class="px-3 py-3 border rounded justify-content-between align-items-center w-100">
+          <p class="mb-0 text-secondary">PEMILIK</p>
+          <i class="fa-solid fa-person text-info"></i> <span class="fw-bold text-dark mx-1">${data.pemilik}</span>
         </div>
-
+      </div>
+      <div class="row g-2 mt-1">
         <!-- STATUS -->
         <div class="col-md-4 col-12">
           <div class="px-3 py-3 border rounded h-100">
@@ -53,9 +52,7 @@ document.addEventListener("DOMContentLoaded", () => {
             <i class="fa-regular fa-newspaper text-warning"></i> <span class="fw-bold text-dark mx-1" style="font-size: 14px;">${data.status}</span>
           </div>
         </div>
-      </div>  
-      
-      <div class="row g-2 mt-1">
+
         <!-- SPPT -->
         <div class="col-md-4 col-12">
           <div class="px-3 py-3 border rounded h-100">
