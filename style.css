@@ -94,7 +94,7 @@ svg path.bloka.active {
 /*maps zoom*/
 .map-wrapper {
   position: relative;
-  height: 75vh;
+  height: 85vh;
   overflow: hidden;
   background: #f8f9fa;
   padding: auto;
