@@ -124,7 +124,7 @@ svg path.blokc.active {
 /*maps zoom*/
 .map-wrapper {
   position: relative;
-  height: 75vh;
+  height: 80vh;
   overflow: hidden;
   background: #f8f9fa;
   padding: auto;
