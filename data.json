@@ -10,7 +10,7 @@
     "kondisi": "Jalan Raya",
     "alamat": "Jalan Raya Watuageng, RT 02 RW 06, Juragan"
   },
-  "A": {
+  "A1": {
     "blok": 1,
     "title": "Rumah A1",
     "description": "Ini adalah desain untuk Rumah A.",
@@ -21,7 +21,7 @@
     "kondisi": "RUMAH HUNIAN",
     "alamat": "Perumahan Watuageng Blok 1 No. A, RT 02 RW 06 Juragan"
   },
-  "B": {
+  "A2": {
     "blok": 1,
     "title": "Rumah A2",
     "description": "Desain eksklusif Rumah B.",
@@ -32,7 +32,7 @@
     "kondisi": "RUMAH HUNIAN",
     "alamat": "Perumahan Watuageng Blok 1 No. B, RT 02 RW 06 Juragan"
   },
-  "C": {
+  "A3": {
     "blok": 1,
     "title": "Rumah A3",
     "description": "Konsep modern Rumah C.",
@@ -43,7 +43,7 @@
     "kondisi": "RUKO",
     "alamat": "Perumahan Watuageng Blok 1 No. C, RT 02 RW 06 Juragan"
   },
-  "D": {
+  "A4": {
     "blok": 1,
     "title": "Rumah A4",
     "description": "Ini adalah desain untuk Rumah D.",
@@ -54,7 +54,7 @@
     "kondisi": "RUMAH HUNIAN",
     "alamat": "Perumahan Watuageng Blok 1 No. D, RT 02 RW 06 Juragan"
   },
-  "E": {
+  "A5": {
     "blok": 1,
     "title": "Rumah A5",
     "description": "Desain eksklusif Rumah E.",
@@ -65,7 +65,7 @@
     "kondisi": "RUMAH HUNIAN",
     "alamat": "Perumahan Watuageng Blok 1 No. E, RT 02 RW 06 Juragan"
   },
-  "F": {
+  "A6": {
     "blok": 1,
     "title": "Rumah A6",
     "description": "Konsep modern Rumah F.",
@@ -76,7 +76,7 @@
     "kondisi": "RUKO",
     "alamat": "Perumahan Watuageng Blok 1 No. F, RT 02 RW 06 Juragan"
   },
-  "G": {
+  "A7": {
     "blok": 1,
     "title": "Rumah A7",
     "description": "Ini adalah desain untuk Rumah G.",
@@ -87,7 +87,7 @@
     "kondisi": "RUMAH HUNIAN",
     "alamat": "Perumahan Watuageng Blok 1 No. G, RT 02 RW 06 Juragan"
   },
-  "H": {
+  "A8": {
     "blok": 1,
     "title": "Rumah A8",
     "description": "Desain eksklusif Rumah H.",
@@ -98,7 +98,7 @@
     "kondisi": "RUMAH HUNIAN",
     "alamat": "Perumahan Watuageng Blok 1 No. H, RT 02 RW 06 Juragan"
   },
-  "I": {
+  "A9": {
     "blok": 1,
     "title": "Rumah A9",
     "description": "Konsep modern Rumah I.",
@@ -109,7 +109,7 @@
     "kondisi": "GUDANG",
     "alamat": "Perumahan Watuageng Blok 1 No. I, RT 02 RW 06 Juragan"
   },
-  "J": {
+  "A10": {
     "blok": 1,
     "title": "Rumah A10",
     "description": "Ini adalah desain untuk Rumah J.",
@@ -120,9 +120,9 @@
     "kondisi": "RUMAH HUNIAN",
     "alamat": "Perumahan Watuageng Blok 1 No. J, RT 02 RW 06 Juragan"
   },
-  "K": {
+  "A11": {
     "blok": 1,
-    "title": "Rumah K",
+    "title": "Rumah A11",
     "description": "Desain eksklusif Rumah K.",
     "image": "assets/desain-b.jpg",
     "pemilik": "IRFAN MAULANA",
@@ -131,9 +131,9 @@
     "kondisi": "RUMAH HUNIAN",
     "alamat": "Perumahan Watuageng Blok 1 No. K, RT 02 RW 06 Juragan"
   },
-  "L": {
+  "A12": {
     "blok": 1,
-    "title": "Rumah L",
+    "title": "Rumah A12",
     "description": "Konsep modern Rumah L.",
     "image": "assets/desain-b.jpg",
     "pemilik": "MAYA SARI",
@@ -142,9 +142,9 @@
     "kondisi": "RUKO",
     "alamat": "Perumahan Watuageng Blok 1 No. L, RT 02 RW 06 Juragan"
   },
-  "M": {
+  "A13": {
     "blok": 1,
-    "title": "Rumah M",
+    "title": "Rumah A13",
     "description": "Ini adalah desain untuk Rumah M.",
     "image": "assets/desain-a.jpg",
     "pemilik": "YUDI HARTONO",
@@ -153,9 +153,9 @@
     "kondisi": "RUMAH HUNIAN",
     "alamat": "Perumahan Watuageng Blok 1 No. M, RT 02 RW 06 Juragan"
   },
-  "N": {
+  "A14": {
     "blok": 1,
-    "title": "Rumah N",
+    "title": "Rumah A14",
     "description": "Desain eksklusif Rumah N.",
     "image": "assets/desain-b.jpg",
     "pemilik": "SITI AMINAH",
@@ -164,9 +164,9 @@
     "kondisi": "RUMAH HUNIAN",
     "alamat": "Perumahan Watuageng Blok 1 No. N, RT 02 RW 06 Juragan"
   },
-  "O": {
+  "A15": {
     "blok": 1,
-    "title": "Rumah O",
+    "title": "Rumah A15",
     "description": "Konsep modern Rumah O.",
     "image": "assets/desain-c.jpg",
     "pemilik": "FAJAR NUGROHO",
@@ -175,9 +175,9 @@
     "kondisi": "RUKO",
     "alamat": "Perumahan Watuageng Blok 1 No. O, RT 02 RW 06 Juragan"
   },
-  "P": {
+  "A16": {
     "blok": 1,
-    "title": "Rumah P",
+    "title": "Rumah A16",
     "description": "Ini adalah desain untuk Rumah P.",
     "image": "assets/desain-a.jpg",
     "pemilik": "BAMBANG IRAWAN",
@@ -186,9 +186,9 @@
     "kondisi": "RUMAH HUNIAN",
     "alamat": "Perumahan Watuageng Blok 1 No. P, RT 02 RW 06 Juragan"
   },
-  "Q": {
+  "A17": {
     "blok": 1,
-    "title": "Rumah Q",
+    "title": "Rumah A17",
     "description": "Desain eksklusif Rumah Q.",
     "image": "assets/desain-b.jpg",
     "pemilik": "RIZKY PRATAMA",
@@ -197,9 +197,9 @@
     "kondisi": "RUMAH HUNIAN",
     "alamat": "Perumahan Watuageng Blok 1 No. Q, RT 02 RW 06 Juragan"
   },
-  "R": {
+  "A18": {
     "blok": 1,
-    "title": "Rumah R",
+    "title": "Rumah A18",
     "description": "Konsep modern Rumah R.",
     "image": "assets/desain-c.jpg",
     "pemilik": "DEWI ANGGRAENI",
@@ -208,9 +208,9 @@
     "kondisi": "RUKO",
     "alamat": "Perumahan Watuageng Blok 1 No. R, RT 02 RW 06 Juragan"
   },
-  "S": {
+  "A19": {
     "blok": 1,
-    "title": "Rumah S",
+    "title": "Rumah A19",
     "description": "Ini adalah desain untuk Rumah S.",
     "image": "assets/desain-a.jpg",
     "pemilik": "ANDI SAPUTRA",
@@ -219,9 +219,9 @@
     "kondisi": "RUMAH HUNIAN",
     "alamat": "Perumahan Watuageng Blok 1 No. S, RT 02 RW 06 Juragan"
   },
-  "T": {
+  "A20": {
     "blok": 1,
-    "title": "Rumah T",
+    "title": "Rumah A20",
     "description": "Desain eksklusif Rumah T.",
     "image": "assets/desain-b.jpg",
     "pemilik": "RATNA DEWI",
@@ -230,9 +230,9 @@
     "kondisi": "RUMAH HUNIAN",
     "alamat": "Perumahan Watuageng Blok 1 No. T, RT 02 RW 06 Juragan"
   },
-  "U": {
+  "A21": {
     "blok": 1,
-    "title": "Rumah U",
+    "title": "Rumah A21",
     "description": "Konsep modern Rumah U.",
     "image": "assets/desain-c.jpg",
     "pemilik": "ILHAM AKBAR",
@@ -241,9 +241,9 @@
     "kondisi": "GUDANG",
     "alamat": "Perumahan Watuageng Blok 1 No. U, RT 02 RW 06 Juragan"
   },
-  "V": {
+  "A22": {
     "blok": 1,
-    "title": "Rumah V",
+    "title": "Rumah A22",
     "description": "Ini adalah desain untuk Rumah V.",
     "image": "assets/desain-a.jpg",
     "pemilik": "WAWAN SETIAJI",
@@ -252,9 +252,9 @@
     "kondisi": "RUMAH HUNIAN",
     "alamat": "Perumahan Watuageng Blok 1 No. V, RT 02 RW 06 Juragan"
   },
-  "W": {
+  "A23": {
     "blok": 1,
-    "title": "Rumah W",
+    "title": "Rumah A23",
     "description": "Desain eksklusif Rumah W.",
     "image": "assets/desain-b.jpg",
     "pemilik": "NOVA RAHMA",
@@ -263,42 +263,9 @@
     "kondisi": "RUMAH HUNIAN",
     "alamat": "Perumahan Watuageng Blok 1 No. W, RT 02 RW 06 Juragan"
   },
-  "X": {
-    "blok": 1,
-    "title": "Rumah X",
-    "description": "Konsep modern Rumah X.",
-    "image": "assets/desain-c.jpg",
-    "pemilik": "ALDI FIRMANSYAH",
-    "status": "HGB",
-    "no_sppt": "055272",
-    "kondisi": "RUKO",
-    "alamat": "Perumahan Watuageng Blok 1 No. X, RT 02 RW 06 Juragan"
-  },
-  "Y": {
-    "blok": 1,
-    "title": "Rumah Y",
-    "description": "Ini adalah desain untuk Rumah Y.",
-    "image": "assets/desain-a.jpg",
-    "pemilik": "RIDWAN HAKIM",
-    "status": "SHM",
-    "no_sppt": "055273",
-    "kondisi": "RUMAH HUNIAN",
-    "alamat": "Perumahan Watuageng Blok 1 No. Y, RT 02 RW 06 Juragan"
-  },
-  "Z": {
-    "blok": 1,
-    "title": "Rumah Z",
-    "description": "Desain eksklusif Rumah Z.",
-    "image": "assets/desain-b.jpg",
-    "pemilik": "HARI SUSILO",
-    "status": "SHM",
-    "no_sppt": "055274",
-    "kondisi": "RUMAH HUNIAN",
-    "alamat": "Perumahan Watuageng Blok 1 No. Z, RT 02 RW 06 Juragan"
-  },
-  "A2": {
+  "B1": {
     "blok": 2,
-    "title": "Rumah A2",
+    "title": "Rumah B1",
     "description": "Konsep modern Rumah A2.",
     "image": "assets/desain-c.jpg",
     "pemilik": "ILHAM AKBAR",
@@ -318,9 +285,9 @@
     "kondisi": "RUMAH HUNIAN",
     "alamat": "Perumahan Watuageng Blok 2 No. B2, RT 02 RW 06 Juragan"
   },
-  "C2": {
+  "B3": {
     "blok": 2,
-    "title": "Rumah C2",
+    "title": "Rumah B3",
     "description": "Desain eksklusif Rumah C2.",
     "image": "assets/desain-b.jpg",
     "pemilik": "NOVA RAHMA",
@@ -329,9 +296,9 @@
     "kondisi": "RUMAH HUNIAN",
     "alamat": "Perumahan Watuageng Blok 2 No. C2, RT 02 RW 06 Juragan"
   },
-  "D2": {
+  "B4": {
     "blok": 2,
-    "title": "Rumah D2",
+    "title": "Rumah B4",
     "description": "Konsep modern Rumah D2.",
     "image": "assets/desain-c.jpg",
     "pemilik": "ALDI FIRMANSYAH",
@@ -340,9 +307,9 @@
     "kondisi": "RUKO",
     "alamat": "Perumahan Watuageng Blok 2 No. D2, RT 02 RW 06 Juragan"
   },
-  "E2": {
+  "B5": {
     "blok": 2,
-    "title": "Rumah E2",
+    "title": "Rumah B5",
     "description": "Ini adalah desain untuk Rumah E2.",
     "image": "assets/desain-a.jpg",
     "pemilik": "RIDWAN HAKIM",
@@ -351,9 +318,9 @@
     "kondisi": "RUMAH HUNIAN",
     "alamat": "Perumahan Watuageng Blok 2 No. E2, RT 02 RW 06 Juragan"
   },
-  "F2": {
+  "B6": {
     "blok": 2,
-    "title": "Rumah F2",
+    "title": "Rumah B6",
     "description": "Desain eksklusif Rumah F2.",
     "image": "assets/desain-b.jpg",
     "pemilik": "HARI SUSILO",
@@ -361,5 +328,247 @@
     "no_sppt": "055274",
     "kondisi": "RUMAH HUNIAN",
     "alamat": "Perumahan Watuageng Blok 2 No. F2, RT 02 RW 06 Juragan"
-  }
+  },
+  "B7": {
+    "blok": 1,
+    "title": "Rumah B7",
+    "description": "Konsep modern Rumah X.",
+    "image": "assets/desain-c.jpg",
+    "pemilik": "ALDI FIRMANSYAH",
+    "status": "HGB",
+    "no_sppt": "055272",
+    "kondisi": "RUKO",
+    "alamat": "Perumahan Watuageng Blok 1 No. X, RT 02 RW 06 Juragan"
+  },
+  "B8": {
+    "blok": 1,
+    "title": "Rumah B8",
+    "description": "Ini adalah desain untuk Rumah Y.",
+    "image": "assets/desain-a.jpg",
+    "pemilik": "RIDWAN HAKIM",
+    "status": "SHM",
+    "no_sppt": "055273",
+    "kondisi": "RUMAH HUNIAN",
+    "alamat": "Perumahan Watuageng Blok 1 No. Y, RT 02 RW 06 Juragan"
+  },
+  "B9": {
+    "blok": 1,
+    "title": "Rumah B9",
+    "description": "Desain eksklusif Rumah Z.",
+    "image": "assets/desain-b.jpg",
+    "pemilik": "HARI SUSILO",
+    "status": "SHM",
+    "no_sppt": "055274",
+    "kondisi": "RUMAH HUNIAN",
+    "alamat": "Perumahan Watuageng Blok 1 No. Z, RT 02 RW 06 Juragan"
+  },
+  "B10": {
+    "blok": 2,
+    "title": "Rumah B10",
+    "description": "Konsep modern Rumah A2.",
+    "image": "assets/desain-c.jpg",
+    "pemilik": "ILHAM AKBAR",
+    "status": "HGB",
+    "no_sppt": "055269",
+    "kondisi": "GUDANG",
+    "alamat": "Perumahan Watuageng Blok 2 No. A2, RT 02 RW 06 Juragan"
+  },
+  "B11": {
+    "blok": 2,
+    "title": "Rumah B11",
+    "description": "Ini adalah desain untuk Rumah B2.",
+    "image": "assets/desain-a.jpg",
+    "pemilik": "WAWAN SETIAJI",
+    "status": "SHM",
+    "no_sppt": "055270",
+    "kondisi": "RUMAH HUNIAN",
+    "alamat": "Perumahan Watuageng Blok 2 No. B2, RT 02 RW 06 Juragan"
+  },
+  "B12": {
+    "blok": 2,
+    "title": "Rumah B12",
+    "description": "Konsep modern Rumah L.",
+    "image": "assets/desain-b.jpg",
+    "pemilik": "MAYA SARI",
+    "status": "HGB",
+    "no_sppt": "055260",
+    "kondisi": "RUKO",
+    "alamat": "Perumahan Watuageng Blok 1 No. L, RT 02 RW 06 Juragan"
+  },
+  "B13": {
+    "blok": 2,
+    "title": "Rumah B13",
+    "description": "Ini adalah desain untuk Rumah M.",
+    "image": "assets/desain-a.jpg",
+    "pemilik": "YUDI HARTONO",
+    "status": "SHM",
+    "no_sppt": "055261",
+    "kondisi": "RUMAH HUNIAN",
+    "alamat": "Perumahan Watuageng Blok 1 No. M, RT 02 RW 06 Juragan"
+  },
+  "B14": {
+    "blok": 2,
+    "title": "Rumah B14",
+    "description": "Desain eksklusif Rumah N.",
+    "image": "assets/desain-b.jpg",
+    "pemilik": "SITI AMINAH",
+    "status": "SHM",
+    "no_sppt": "055262",
+    "kondisi": "RUMAH HUNIAN",
+    "alamat": "Perumahan Watuageng Blok 1 No. N, RT 02 RW 06 Juragan"
+  },
+  "B15": {
+    "blok": 2,
+    "title": "Rumah B15",
+    "description": "Konsep modern Rumah O.",
+    "image": "assets/desain-c.jpg",
+    "pemilik": "FAJAR NUGROHO",
+    "status": "HGB",
+    "no_sppt": "055263",
+    "kondisi": "RUKO",
+    "alamat": "Perumahan Watuageng Blok 1 No. O, RT 02 RW 06 Juragan"
+  },
+  "B16": {
+    "blok": 2,
+    "title": "Rumah B16",
+    "description": "Ini adalah desain untuk Rumah P.",
+    "image": "assets/desain-a.jpg",
+    "pemilik": "BAMBANG IRAWAN",
+    "status": "SHM",
+    "no_sppt": "055264",
+    "kondisi": "RUMAH HUNIAN",
+    "alamat": "Perumahan Watuageng Blok 1 No. P, RT 02 RW 06 Juragan"
+  },
+  "B17": {
+    "blok": 2,
+    "title": "Rumah B17",
+    "description": "Desain eksklusif Rumah Q.",
+    "image": "assets/desain-b.jpg",
+    "pemilik": "RIZKY PRATAMA",
+    "status": "SHM",
+    "no_sppt": "055265",
+    "kondisi": "RUMAH HUNIAN",
+    "alamat": "Perumahan Watuageng Blok 1 No. Q, RT 02 RW 06 Juragan"
+  },
+  "B18": {
+    "blok": 2,
+    "title": "Rumah B18",
+    "description": "Konsep modern Rumah R.",
+    "image": "assets/desain-c.jpg",
+    "pemilik": "DEWI ANGGRAENI",
+    "status": "HGB",
+    "no_sppt": "055266",
+    "kondisi": "RUKO",
+    "alamat": "Perumahan Watuageng Blok 1 No. R, RT 02 RW 06 Juragan"
+  },
+  "B19": {
+    "blok": 2,
+    "title": "Rumah B19",
+    "description": "Ini adalah desain untuk Rumah S.",
+    "image": "assets/desain-a.jpg",
+    "pemilik": "ANDI SAPUTRA",
+    "status": "SHM",
+    "no_sppt": "055267",
+    "kondisi": "RUMAH HUNIAN",
+    "alamat": "Perumahan Watuageng Blok 1 No. S, RT 02 RW 06 Juragan"
+  },
+  "B20": {
+    "blok": 2,
+    "title": "Rumah B20",
+    "description": "Desain eksklusif Rumah T.",
+    "image": "assets/desain-b.jpg",
+    "pemilik": "RATNA DEWI",
+    "status": "SHM",
+    "no_sppt": "055268",
+    "kondisi": "RUMAH HUNIAN",
+    "alamat": "Perumahan Watuageng Blok 1 No. T, RT 02 RW 06 Juragan"
+  },
+  "B21": {
+    "blok": 2,
+    "title": "Rumah B21",
+    "description": "Konsep modern Rumah U.",
+    "image": "assets/desain-c.jpg",
+    "pemilik": "ILHAM AKBAR",
+    "status": "HGB",
+    "no_sppt": "055269",
+    "kondisi": "GUDANG",
+    "alamat": "Perumahan Watuageng Blok 1 No. U, RT 02 RW 06 Juragan"
+  },
+  "B22": {
+    "blok": 2,
+    "title": "Rumah B22",
+    "description": "Ini adalah desain untuk Rumah V.",
+    "image": "assets/desain-a.jpg",
+    "pemilik": "WAWAN SETIAJI",
+    "status": "SHM",
+    "no_sppt": "055270",
+    "kondisi": "RUMAH HUNIAN",
+    "alamat": "Perumahan Watuageng Blok 1 No. V, RT 02 RW 06 Juragan"
+  },
+  "B23": {
+    "blok": 2,
+    "title": "Rumah B23",
+    "description": "Desain eksklusif Rumah W.",
+    "image": "assets/desain-b.jpg",
+    "pemilik": "NOVA RAHMA",
+    "status": "SHM",
+    "no_sppt": "055271",
+    "kondisi": "RUMAH HUNIAN",
+    "alamat": "Perumahan Watuageng Blok 1 No. W, RT 02 RW 06 Juragan"
+  },
+  "B24": {
+    "blok": 2,
+    "title": "Rumah B24",
+    "description": "Ini adalah desain untuk Rumah D.",
+    "image": "assets/desain-a.jpg",
+    "pemilik": "AGUS SETIAWAN",
+    "status": "SHM",
+    "no_sppt": "055252",
+    "kondisi": "RUMAH HUNIAN",
+    "alamat": "Perumahan Watuageng Blok 1 No. D, RT 02 RW 06 Juragan"
+  },
+  "B25": {
+    "blok": 2,
+    "title": "Rumah B25",
+    "description": "Desain eksklusif Rumah E.",
+    "image": "assets/desain-b.jpg",
+    "pemilik": "RINA LESTARI",
+    "status": "SHM",
+    "no_sppt": "055253",
+    "kondisi": "RUMAH HUNIAN",
+    "alamat": "Perumahan Watuageng Blok 1 No. E, RT 02 RW 06 Juragan"
+  },
+  "B26": {
+    "blok": 2,
+    "title": "Rumah B26",
+    "description": "Konsep modern Rumah F.",
+    "image": "assets/desain-c.jpg",
+    "pemilik": "HENDRA WIJAYA",
+    "status": "HGB",
+    "no_sppt": "055254",
+    "kondisi": "RUKO",
+    "alamat": "Perumahan Watuageng Blok 1 No. F, RT 02 RW 06 Juragan"
+  },
+  "B27": {
+    "blok": 2,
+    "title": "Rumah B27",
+    "description": "Ini adalah desain untuk Rumah G.",
+    "image": "assets/desain-a.jpg",
+    "pemilik": "DWI PRAMONO",
+    "status": "SHM",
+    "no_sppt": "055255",
+    "kondisi": "RUMAH HUNIAN",
+    "alamat": "Perumahan Watuageng Blok 1 No. G, RT 02 RW 06 Juragan"
+  },
+  "B28": {
+    "blok": 2,
+    "title": "Rumah B28",
+    "description": "Desain eksklusif Rumah H.",
+    "image": "assets/desain-b.jpg",
+    "pemilik": "LINA KURNIA",
+    "status": "SHM",
+    "no_sppt": "055256",
+    "kondisi": "RUMAH HUNIAN",
+    "alamat": "Perumahan Watuageng Blok 1 No. H, RT 02 RW 06 Juragan"
+  },
 }

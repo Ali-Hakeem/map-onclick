@@ -43,6 +43,36 @@ svg path.bloka.active {
   fill: #8f0000;
 }
 
+svg path.blokb {
+  fill: #00a1e8;
+  stroke: #333;
+  stroke-width: 2;
+  transition: 0.3s;
+}
+
+svg path.blokb:hover {
+  fill: #1c6889;
+}
+
+svg path.blokb.active {
+  fill: #004f6e;
+}
+
+svg path.blokc {
+  fill: #332c2b;
+  stroke: #333;
+  stroke-width: 2;
+  transition: 0.3s;
+}
+
+svg path.blokc:hover {
+  fill: #000000;
+}
+
+svg path.blokc.active {
+  fill: #888888;
+}
+
 /* DETAIL */
 .details-container {
   background: #fff;
@@ -94,7 +124,7 @@ svg path.bloka.active {
 /*maps zoom*/
 .map-wrapper {
   position: relative;
-  height: 85vh;
+  height: 75vh;
   overflow: hidden;
   background: #f8f9fa;
   padding: auto;
