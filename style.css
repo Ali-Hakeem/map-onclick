@@ -73,6 +73,21 @@ svg path.blokc.active {
   fill: #888888;
 }
 
+svg path.blokd {
+  fill: #a62084;
+  stroke: #333;
+  stroke-width: 2;
+  transition: 0.3s;
+}
+
+svg path.blokd:hover {
+  fill: #6b0151;
+}
+
+svg path.blokd.active {
+  fill: #37012a;
+}
+
 /* DETAIL */
 .details-container {
   background: #fff;
