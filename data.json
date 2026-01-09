@@ -572,7 +572,7 @@
     "alamat": "Perumahan Watuageng Blok 1 No. H, RT 02 RW 06 Juragan"
   },
   "C1": {
-    "blok": 2,
+    "blok": 3,
     "title": "Rumah C1",
     "description": "Konsep modern Rumah A2.",
     "image": "assets/desain-c.jpg",
@@ -583,7 +583,7 @@
     "alamat": "Perumahan Watuageng blok 2 No. A2, RT 02 RW 06 Juragan"
   },
   "C2": {
-    "blok": 2,
+    "blok": 3,
     "title": "Rumah C2",
     "description": "Ini adalah desain untuk Rumah C2.",
     "image": "assets/desain-a.jpg",
@@ -594,7 +594,7 @@
     "alamat": "Perumahan Watuageng blok 2 No. C2, RT 02 RW 06 Juragan"
   },
   "C3": {
-    "blok": 2,
+    "blok": 3,
     "title": "Rumah C3",
     "description": "Desain eksklusif Rumah C2.",
     "image": "assets/desain-C.jpg",
@@ -605,7 +605,7 @@
     "alamat": "Perumahan Watuageng blok 2 No. C2, RT 02 RW 06 Juragan"
   },
   "C4": {
-    "blok": 2,
+    "blok": 3,
     "title": "Rumah C4",
     "description": "Konsep modern Rumah D2.",
     "image": "assets/desain-c.jpg",
@@ -616,7 +616,7 @@
     "alamat": "Perumahan Watuageng blok 2 No. D2, RT 02 RW 06 Juragan"
   },
   "C5": {
-    "blok": 2,
+    "blok": 3,
     "title": "Rumah C5",
     "description": "Ini adalah desain untuk Rumah E2.",
     "image": "assets/desain-a.jpg",
@@ -627,7 +627,7 @@
     "alamat": "Perumahan Watuageng blok 2 No. E2, RT 02 RW 06 Juragan"
   },
   "C6": {
-    "blok": 2,
+    "blok": 3,
     "title": "Rumah C6",
     "description": "Desain eksklusif Rumah F2.",
     "image": "assets/desain-C.jpg",
@@ -671,7 +671,7 @@
     "alamat": "Perumahan Watuageng blok 1 No. Z, RT 02 RW 06 Juragan"
   },
   "C10": {
-    "blok": 2,
+    "blok": 3,
     "title": "Rumah C10",
     "description": "Konsep modern Rumah A2.",
     "image": "assets/desain-c.jpg",
@@ -682,7 +682,7 @@
     "alamat": "Perumahan Watuageng blok 2 No. A2, RT 02 RW 06 Juragan"
   },
   "C11": {
-    "blok": 2,
+    "blok": 3,
     "title": "Rumah C11",
     "description": "Ini adalah desain untuk Rumah C2.",
     "image": "assets/desain-a.jpg",
@@ -693,7 +693,7 @@
     "alamat": "Perumahan Watuageng blok 2 No. C2, RT 02 RW 06 Juragan"
   },
   "C12": {
-    "blok": 2,
+    "blok": 3,
     "title": "Rumah C12",
     "description": "Konsep modern Rumah L.",
     "image": "assets/desain-C.jpg",
@@ -704,7 +704,7 @@
     "alamat": "Perumahan Watuageng blok 1 No. L, RT 02 RW 06 Juragan"
   },
   "C13": {
-    "blok": 2,
+    "blok": 3,
     "title": "Rumah C13",
     "description": "Ini adalah desain untuk Rumah M.",
     "image": "assets/desain-a.jpg",
@@ -715,7 +715,7 @@
     "alamat": "Perumahan Watuageng blok 1 No. M, RT 02 RW 06 Juragan"
   },
   "C14": {
-    "blok": 2,
+    "blok": 3,
     "title": "Rumah C14",
     "description": "Desain eksklusif Rumah N.",
     "image": "assets/desain-C.jpg",
@@ -726,7 +726,7 @@
     "alamat": "Perumahan Watuageng blok 1 No. N, RT 02 RW 06 Juragan"
   },
   "C15": {
-    "blok": 2,
+    "blok": 3,
     "title": "Rumah C15",
     "description": "Konsep modern Rumah O.",
     "image": "assets/desain-c.jpg",
@@ -737,7 +737,7 @@
     "alamat": "Perumahan Watuageng blok 1 No. O, RT 02 RW 06 Juragan"
   },
   "C16": {
-    "blok": 2,
+    "blok": 3,
     "title": "Rumah C16",
     "description": "Ini adalah desain untuk Rumah P.",
     "image": "assets/desain-a.jpg",
@@ -748,7 +748,7 @@
     "alamat": "Perumahan Watuageng blok 1 No. P, RT 02 RW 06 Juragan"
   },
   "C17": {
-    "blok": 2,
+    "blok": 3,
     "title": "Rumah C17",
     "description": "Desain eksklusif Rumah Q.",
     "image": "assets/desain-C.jpg",
@@ -759,7 +759,7 @@
     "alamat": "Perumahan Watuageng blok 1 No. Q, RT 02 RW 06 Juragan"
   },
   "C18": {
-    "blok": 2,
+    "blok": 3,
     "title": "Rumah C18",
     "description": "Konsep modern Rumah R.",
     "image": "assets/desain-c.jpg",
@@ -770,7 +770,7 @@
     "alamat": "Perumahan Watuageng blok 1 No. R, RT 02 RW 06 Juragan"
   },
   "C19": {
-    "blok": 2,
+    "blok": 3,
     "title": "Rumah C19",
     "description": "Ini adalah desain untuk Rumah S.",
     "image": "assets/desain-a.jpg",
@@ -781,7 +781,7 @@
     "alamat": "Perumahan Watuageng blok 1 No. S, RT 02 RW 06 Juragan"
   },
   "C20": {
-    "blok": 2,
+    "blok": 3,
     "title": "Rumah C20",
     "description": "Desain eksklusif Rumah T.",
     "image": "assets/desain-C.jpg",
@@ -792,7 +792,7 @@
     "alamat": "Perumahan Watuageng blok 1 No. T, RT 02 RW 06 Juragan"
   },
   "C21": {
-    "blok": 2,
+    "blok": 3,
     "title": "Rumah C21",
     "description": "Konsep modern Rumah U.",
     "image": "assets/desain-c.jpg",
@@ -803,7 +803,7 @@
     "alamat": "Perumahan Watuageng blok 1 No. U, RT 02 RW 06 Juragan"
   },
   "C22": {
-    "blok": 2,
+    "blok": 3,
     "title": "Rumah C22",
     "description": "Ini adalah desain untuk Rumah V.",
     "image": "assets/desain-a.jpg",
@@ -814,7 +814,7 @@
     "alamat": "Perumahan Watuageng blok 1 No. V, RT 02 RW 06 Juragan"
   },
   "C23": {
-    "blok": 2,
+    "blok": 3,
     "title": "Rumah C23",
     "description": "Desain eksklusif Rumah W.",
     "image": "assets/desain-C.jpg",
@@ -825,7 +825,7 @@
     "alamat": "Perumahan Watuageng blok 1 No. W, RT 02 RW 06 Juragan"
   },
   "C24": {
-    "blok": 2,
+    "blok": 3,
     "title": "Rumah C24",
     "description": "Ini adalah desain untuk Rumah D.",
     "image": "assets/desain-a.jpg",
@@ -834,49 +834,5 @@
     "no_sppt": "055252",
     "kondisi": "RUMAH HUNIAN",
     "alamat": "Perumahan Watuageng blok 1 No. D, RT 02 RW 06 Juragan"
-  },
-  "C25": {
-    "blok": 2,
-    "title": "Rumah C25",
-    "description": "Desain eksklusif Rumah E.",
-    "image": "assets/desain-C.jpg",
-    "pemilik": "RINA LESTARI",
-    "status": "SHM",
-    "no_sppt": "055253",
-    "kondisi": "RUMAH HUNIAN",
-    "alamat": "Perumahan Watuageng blok 1 No. E, RT 02 RW 06 Juragan"
-  },
-  "C26": {
-    "blok": 2,
-    "title": "Rumah C26",
-    "description": "Konsep modern Rumah F.",
-    "image": "assets/desain-c.jpg",
-    "pemilik": "HENDRA WIJAYA",
-    "status": "HGC",
-    "no_sppt": "055254",
-    "kondisi": "RUKO",
-    "alamat": "Perumahan Watuageng blok 1 No. F, RT 02 RW 06 Juragan"
-  },
-  "C27": {
-    "blok": 2,
-    "title": "Rumah C27",
-    "description": "Ini adalah desain untuk Rumah G.",
-    "image": "assets/desain-a.jpg",
-    "pemilik": "DWI PRAMONO",
-    "status": "SHM",
-    "no_sppt": "055255",
-    "kondisi": "RUMAH HUNIAN",
-    "alamat": "Perumahan Watuageng blok 1 No. G, RT 02 RW 06 Juragan"
-  },
-  "C28": {
-    "blok": 2,
-    "title": "Rumah C28",
-    "description": "Desain eksklusif Rumah H.",
-    "image": "assets/desain-C.jpg",
-    "pemilik": "LINA KURNIA",
-    "status": "SHM",
-    "no_sppt": "055256",
-    "kondisi": "RUMAH HUNIAN",
-    "alamat": "Perumahan Watuageng blok 1 No. H, RT 02 RW 06 Juragan"
   }
 }
