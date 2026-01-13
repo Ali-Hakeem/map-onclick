@@ -32,8 +32,8 @@ document.addEventListener("DOMContentLoaded", () => {
     // detail
     infoPanel.innerHTML = `
       <img src="${data.image}"
-           alt="${data.title}"
-           style="height:300px;max-width:auto;margin:10px 0;">
+     alt="${data.title}"
+     class="img-fluid rounded info-img">
       <h4><span class="badge bg-danger">${data.title}</span></h4>
       <p class="fw-bold"><i class="fa-solid fa-map-location-dot me-2 text-orange"></i> ${data.alamat}</p>
 
