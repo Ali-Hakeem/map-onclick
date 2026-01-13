@@ -33,7 +33,7 @@ document.addEventListener("DOMContentLoaded", () => {
     infoPanel.innerHTML = `
       <img src="${data.image}"
            alt="${data.title}"
-           style="height:200px;max-width:auto;margin:10px 0;">
+           style="height:300px;max-width:auto;margin:10px 0;">
       <h4><span class="badge bg-danger">${data.title}</span></h4>
       <p class="fw-bold"><i class="fa-solid fa-map-location-dot me-2 text-orange"></i> ${data.alamat}</p>
 

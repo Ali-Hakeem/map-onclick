@@ -88,6 +88,21 @@ svg path.blokd.active {
   fill: #37012a;
 }
 
+svg path.bloke {
+  fill: #009a4b;
+  stroke: #333;
+  stroke-width: 2;
+  transition: 0.3s;
+}
+
+svg path.bloke:hover {
+  fill: #003a1c;
+}
+
+svg path.bloke.active {
+  fill: #013f1f;
+}
+
 /* DETAIL */
 .details-container {
   background: #fff;
@@ -139,7 +154,7 @@ svg path.blokd.active {
 /*maps zoom*/
 .map-wrapper {
   position: relative;
-  height: 80vh;
+  height: 90vh;
   overflow: hidden;
   background: #f8f9fa;
   padding: auto;
