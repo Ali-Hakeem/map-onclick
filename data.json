@@ -902,7 +902,7 @@
     "alamat": "Perumahan Watuageng blok 2 No. F2, RT 02 RW 06 Juragan"
   },
   "D7": {
-    "blok": 1,
+    "blok": 4,
     "title": "Rumah D7",
     "Ddescription": "Konsep modern Rumah X.",
     "image": "assets/desain-d.jpg",
@@ -913,7 +913,7 @@
     "alamat": "Perumahan Watuageng blok 1 No. X, RT 02 RW 06 Juragan"
   },
   "D8": {
-    "blok": 1,
+    "blok": 4,
     "title": "Rumah D8",
     "Ddescription": "Ini adalah desain untuk Rumah Y.",
     "image": "assets/desain-d.jpg",
@@ -924,7 +924,7 @@
     "alamat": "Perumahan Watuageng blok 1 No. Y, RT 02 RW 06 Juragan"
   },
   "D9": {
-    "blok": 1,
+    "blok": 4,
     "title": "Rumah D9",
     "Ddescription": "Desain eksklusif Rumah Z.",
     "image": "assets/desain-d.jpg",
@@ -1133,7 +1133,7 @@
     "alamat": "Perumahan Watuageng blok 2 No. F2, RT 02 RW 06 Juragan"
   },
   "E7": {
-    "blok": 1,
+    "blok": 5,
     "title": "Rumah E7",
     "description": "Konsep moEern Rumah X.",
     "image": "assets/desain-e.jpg",
@@ -1144,7 +1144,7 @@
     "alamat": "Perumahan Watuageng blok 1 No. X, RT 02 RW 06 Juragan"
   },
   "E8": {
-    "blok": 1,
+    "blok": 5,
     "title": "Rumah E8",
     "description": "Ini aEalah desain untuk Rumah Y.",
     "image": "assets/desain-e.jpg",
@@ -1155,7 +1155,7 @@
     "alamat": "Perumahan Watuageng blok 1 No. Y, RT 02 RW 06 Juragan"
   },
   "E9": {
-    "blok": 1,
+    "blok": 5,
     "title": "Rumah E9",
     "description": "desain eksklusif Rumah Z.",
     "image": "assets/desain-e.jpg",
